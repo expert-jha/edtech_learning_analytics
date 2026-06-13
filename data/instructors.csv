@@ -1,0 +1,51 @@
+instructor_id,instructor_name,email,expertise,join_date
+1,Anvi Konda,anvikonda91@platform.com,Senior Data Scientist,2024-08-21
+2,Gagan Sami,gagansami13@platform.com,Cloud DevOps Lead,2024-03-22
+3,Tejas Kaul,tejaskaul41@platform.com,Full Stack Architect,2024-01-12
+4,Rushil Saini,rushilsaini27@platform.com,Senior Data Scientist,2024-07-03
+5,Abeer Dutta,abeerdutta96@platform.com,Investment Banker,2024-03-21
+6,Arunima Dugal,arunimadugal21@platform.com,Investment Banker,2024-09-11
+7,Harsh Chanda,harshchanda64@platform.com,Senior Data Scientist,2024-03-19
+8,Hemangini Lalla,hemanginilalla13@platform.com,Senior Data Scientist,2024-05-18
+9,Jeet Radhakrishnan,jeetradhakrishnan37@platform.com,Full Stack Architect,2024-10-21
+10,Janaki Handa,janakihanda74@platform.com,Investment Banker,2024-01-29
+11,Vedant Mann,vedantmann13@platform.com,Investment Banker,2024-09-14
+12,Harrison Rai,harrisonrai35@platform.com,Investment Banker,2024-12-25
+13,Nicholas Prabhakar,nicholasprabhakar63@platform.com,Full Stack Architect,2024-04-11
+14,Ekbal Garg,ekbalgarg67@platform.com,Investment Banker,2024-05-09
+15,Nihal Shere,nihalshere45@platform.com,Senior Data Scientist,2024-07-13
+16,Ekta Bhalla,ektabhalla30@platform.com,Product Manager,2024-05-18
+17,Diya Rattan,diyarattan53@platform.com,Cloud DevOps Lead,2024-03-24
+18,Divya Kala,divyakala29@platform.com,Full Stack Architect,2024-04-07
+19,Tara Dhar,taradhar53@platform.com,Senior Data Scientist,2024-08-27
+20,Adya Sangha,adyasangha21@platform.com,Product Manager,2024-04-06
+21,Janaki Kanda,janakikanda22@platform.com,Cloud DevOps Lead,2024-11-23
+22,Yashodhara Tak,yashodharatak54@platform.com,Investment Banker,2024-12-30
+23,Imaran Dua,imarandua43@platform.com,Senior Data Scientist,2024-02-03
+24,Devansh Rajan,devanshrajan68@platform.com,Investment Banker,2024-08-17
+25,Zayan Apte,zayanapte25@platform.com,Product Manager,2024-05-19
+26,Amara Oak,amaraoak20@platform.com,Investment Banker,2024-09-05
+27,Nakul Setty,nakulsetty47@platform.com,Investment Banker,2024-02-10
+28,Xiti Gokhale,xitigokhale56@platform.com,Investment Banker,2024-01-02
+29,Chanchal Tripathi,chanchaltripathi34@platform.com,Senior Data Scientist,2024-07-04
+30,Kashvi Edwin,kashviedwin15@platform.com,Full Stack Architect,2024-08-10
+31,Ekiya Suresh,ekiyasuresh47@platform.com,Senior Data Scientist,2024-07-15
+32,Damyanti Khatri,damyantikhatri39@platform.com,Senior Data Scientist,2024-01-08
+33,Frederick Sunder,fredericksunder58@platform.com,Cloud DevOps Lead,2024-01-22
+34,Kabir Soman,kabirsoman68@platform.com,Cloud DevOps Lead,2024-10-24
+35,Alka Wable,alkawable30@platform.com,Cloud DevOps Lead,2024-12-11
+36,Siddharth Zacharia,siddharthzacharia55@platform.com,Full Stack Architect,2024-11-14
+37,Devika Rastogi,devikarastogi95@platform.com,Cloud DevOps Lead,2024-10-02
+38,Raksha Varughese,rakshavarughese99@platform.com,Senior Data Scientist,2024-12-29
+39,Umang Bhatt,umangbhatt87@platform.com,Full Stack Architect,2024-06-13
+40,Thomas Amble,thomasamble78@platform.com,Full Stack Architect,2024-05-03
+41,Veer Bir,veerbir30@platform.com,Product Manager,2024-01-26
+42,Ekavir Varkey,ekavirvarkey58@platform.com,Cloud DevOps Lead,2024-11-26
+43,Tanish Zacharia,tanishzacharia91@platform.com,Investment Banker,2024-03-27
+44,Xavier Solanki,xaviersolanki38@platform.com,Cloud DevOps Lead,2024-02-18
+45,Girindra Chatterjee,girindrachatterjee17@platform.com,Full Stack Architect,2024-10-21
+46,Pallavi Roy,pallaviroy14@platform.com,Cloud DevOps Lead,2024-08-28
+47,Guneet Bhat,guneetbhat61@platform.com,Cloud DevOps Lead,2024-06-19
+48,Ikbal Kothari,ikbalkothari18@platform.com,Full Stack Architect,2024-05-26
+49,Logan Sami,logansami82@platform.com,Cloud DevOps Lead,2024-03-10
+50,Zaid Borra,zaidborra37@platform.com,Product Manager,2024-03-07

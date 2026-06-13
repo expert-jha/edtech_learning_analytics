@@ -1,0 +1,25 @@
+quiz_id,course_id,quiz_title,total_marks,passing_marks
+1,1,Assessment Quiz 1,100,70
+2,1,Assessment Quiz 2,100,70
+3,2,Assessment Quiz 1,100,70
+4,2,Assessment Quiz 2,100,70
+5,3,Assessment Quiz 1,100,70
+6,3,Assessment Quiz 2,100,70
+7,4,Assessment Quiz 1,100,70
+8,4,Assessment Quiz 2,100,70
+9,5,Assessment Quiz 1,100,70
+10,5,Assessment Quiz 2,100,70
+11,6,Assessment Quiz 1,100,70
+12,6,Assessment Quiz 2,100,70
+13,7,Assessment Quiz 1,100,70
+14,7,Assessment Quiz 2,100,70
+15,8,Assessment Quiz 1,100,70
+16,8,Assessment Quiz 2,100,70
+17,9,Assessment Quiz 1,100,70
+18,9,Assessment Quiz 2,100,70
+19,10,Assessment Quiz 1,100,70
+20,10,Assessment Quiz 2,100,70
+21,11,Assessment Quiz 1,100,70
+22,11,Assessment Quiz 2,100,70
+23,12,Assessment Quiz 1,100,70
+24,12,Assessment Quiz 2,100,70
